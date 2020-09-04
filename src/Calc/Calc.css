@@ -1,0 +1,15 @@
+.calcs-res {
+    font-size: 1.2rem;
+  }
+/* .calcs-res li {
+    margin: 10px 0;
+  } */
+select {
+  height: 30px;
+  width: 80px;
+  text-align: start;
+}
+.result {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
